@@ -1,1 +1,8 @@
-Modificación de text.txt
+ejercicio 1
+estoy en el master
+
+ejercicio 3
+estoy en el blanca
+ejercicio 4
+estoy en el blanca
+
